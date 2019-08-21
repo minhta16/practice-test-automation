@@ -8,7 +8,7 @@ from pom.landing.landing_page import LandingPage
 from pom.pricing.pricing_page import PricingPage
 
 
-@step('I am at pricing page')
+@step('I am at landing page')
 def step_impl(context):
     context.browser.get('https://www.got-it.tech/solutions/excel-chat')
 
@@ -21,7 +21,7 @@ def step_impl(context):
 
 @step('I purchase package {index} personal at pricing tab by Paypal')
 def step_impl(context, index):
-    PricingPage(context.browser).click_pricing_option_at(int(index))
+    PricingPage(context.browser).click_purchase_option_by_index(int(index))
 
     payment_modal = PaymentModal(context.browser)
     payment_modal.click_paypal_paying_option()
