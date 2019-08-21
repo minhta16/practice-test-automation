@@ -6,7 +6,7 @@ import time
 class PaypalPopup(BasePage):
     email_text_field = "#email[name='login_email']"
     password_text_field = "#password[name='login_password']"
-    next_to_password = "button.button.actionContinue[name='btnNext']"
+    next_to_password = ".button.actionContinue[name='btnNext']"
     login_btn = "#btnLogin"
     continue_payment_btn = "#button"
     agree_continue_btn = "#confirmButtonTop"
@@ -31,9 +31,10 @@ class PaypalPopup(BasePage):
         self._enter_password()
         self._click_login()
 
-    def click_continue_payment(self):
-        time.sleep(2)
+    def click_continue_payment_button(self):
+        # Wait until continue payment button appears then click that button
+        time.sleep(4)
         self.driver.wait_then_click(self.continue_payment_btn)
 
-    def click_agree_and_continue(self):
+    def click_agree_and_continue_button(self):
         self.driver.wait_then_click(self.agree_continue_btn)

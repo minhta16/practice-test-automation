@@ -1,49 +1,58 @@
 from behave import *
-from pom.common.header import Header
-from pom.pricing.pricing_page import PricingPage
-from pom.pricing.payment_subscription_modal import PaymentSubscriptionModal
+from pom.pricing.payment_modal import PaymentModal
 from pom.pricing.paypal_popup import PaypalPopup
 from pom.sign_up.sign_up_modal import SignUpModal
 from pom.sign_up.policy_modal import PolicyModal
-from pom.sign_up.chrome_extension_modal import ChromeExtensionModal
+from pom.sign_up.purchase_successful_modal import PurchaseSuccessfulModal
 from pom.landing.landing_page import LandingPage
+from pom.pricing.pricing_page import PricingPage
 
 
-@Given('I purchase package 1 personal at pricing tab by Paypal')
+@step('I am at pricing page')
 def step_impl(context):
     context.browser.get('https://www.got-it.tech/solutions/excel-chat')
+
+    # Need this key to turn off Chrome Extension modal
     key = "gotit.excel.asker.turnOffExtension"
     context.browser.execute_script(f'localStorage.setItem("{key}", true);')
 
-    Header(context.browser).click_pricing_tab()
-    PricingPage(context.browser).click_first_pricing_option()
+    LandingPage(context.browser).click_pricing_tab()
 
-    payment_modal = PaymentSubscriptionModal(context.browser)
+
+@step('I purchase package {index} personal at pricing tab by Paypal')
+def step_impl(context, index):
+    PricingPage(context.browser).click_pricing_option_at(int(index))
+
+    payment_modal = PaymentModal(context.browser)
     payment_modal.click_paypal_paying_option()
     payment_modal.click_paypal_frame_button()
     payment_modal.switch_to_paypal_popup()
 
     paypal_popup = PaypalPopup(context.browser)
     paypal_popup.log_in()
-    paypal_popup.click_continue_payment()
-    paypal_popup.click_agree_and_continue()
 
-    payment_modal.click_pay_now()
+    paypal_popup.click_continue_payment_button()
+    paypal_popup.click_agree_and_continue_button()
+
+    payment_modal.click_pay_now_button()
 
 
-@When('I signup successfully')
+@step('I signup successfully')
 def step_impl(context):
     SignUpModal(context.browser).sign_up()
-    PolicyModal(context.browser).click_next()
 
 
-@Then('I should see my balance changed')
+@step('I confirm all policies')
 def step_impl(context):
-    assert LandingPage(context.browser).check_balance_change()
+    PolicyModal(context.browser).click_next_button()
 
 
-@Then('I should see a chrome extension modal')
+@then('I should see my balance to be {balance}')
+def step_impl(context, balance):
+    assert LandingPage(context.browser).get_balance() == balance
+
+
+@then('I should see a sign up successful modal')
 def step_impl(context):
-    chrome_modal = ChromeExtensionModal(context.browser)
+    chrome_modal = PurchaseSuccessfulModal(context.browser)
     assert chrome_modal.check_modal_visible()
-    chrome_modal.click_next()

@@ -1,9 +1,14 @@
 # Created by minhta at 2019-08-09
-Feature: Subscribe with Paypal then sign up success
-  # Enter feature description here
+Feature: As a new user without an account, I subscribe with Paypal and successfully sign up. I should see my balance to be unlimited and a sign up successfully modal.
 
-  Scenario: Subscribe with Paypal then sign up success
-    Given I purchase package 1 personal at pricing tab by Paypal
+  Scenario Outline: Subscribe with Paypal then sign up success
+    Given I am at pricing page
+    And   I purchase package <index> personal at pricing tab by Paypal
     When  I signup successfully
-    Then  I should see my balance changed
-    And   I should see a chrome extension modal
+    And   I confirm all policies
+    Then  I should see a sign up successful modal
+    And   I should see my balance to be <balance>
+
+    Examples:
+    | index | balance |
+    | 0     | 11      |

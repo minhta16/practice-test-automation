@@ -4,7 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/practice_asker.py" line="121" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d13d73-c7af-4804-9b1f-5832aa8f723e" name="Default Changelist" comment="" />
+    <list default="true" id="70d13d73-c7af-4804-9b1f-5832aa8f723e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/paypal_then_sign_up.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/paypal_then_sign_up.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/paypal_then_sign_up.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/paypal_then_sign_up.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/_base/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/_base/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/landing/landing_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/landing/landing_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/pricing/payment_subscription_modal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/pricing/payment_modal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/pricing/paypal_popup.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/pricing/paypal_popup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/pricing/pricing_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/pricing/pricing_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/sign_up/chrome_extension_modal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/sign_up/purchase_successful_modal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom/sign_up/policy_modal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pom/sign_up/policy_modal.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,205 +24,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/constants/paypal.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/features/steps/paypal_then_sign_up.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#0#20#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/features/fixtures.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-                  <folding>
-                    <element signature="e#1#12#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/pricing/payment_subscription_modal.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#0#40#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/matchers.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="97" selection-start-line="97" selection-end-line="97" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/model.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="1328" selection-start-line="1328" selection-end-line="1328" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/pricing/paypal_popup.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-                  <folding>
-                    <element signature="e#0#40#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pom/_base/driver.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/landing/landing_page.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/sign_up/chrome_extension_modal.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="4" selection-end-column="60" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/features/tutorial.feature">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="80">
-                  <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/features/environment.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="208">
-                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/practice_asker.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="269">
-                  <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-                  <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/features/paypal_then_sign_up.feature">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="112">
-                  <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="277">
-                  <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="320" selection-start-line="320" selection-end-line="320" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="205">
-                  <caret line="147" selection-start-line="147" selection-end-line="147" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/pricing/pricing_page.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="9" selection-start-line="9" selection-end-line="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom/common/header.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="112">
-                  <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/steps/paypal_then_sign_up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom/sign_up/purchase_successful_modal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="125" selection-start-line="11" selection-start-column="125" selection-end-line="11" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="257" selection-start-line="257" selection-end-line="257" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom/landing/landing_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom/pricing/paypal_popup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom/_base/driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom/pricing/payment_modal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/paypal_then_sign_up.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -231,7 +142,12 @@
       <find>get_screenshot_as_png</find>
       <find>webdr</find>
       <find>switch_to_next_window</find>
+      <find>switch_to_window</find>
+      <find>#</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -247,23 +163,25 @@
         <option value="$PROJECT_DIR$/pom/pricing_page.py" />
         <option value="$PROJECT_DIR$/pom/header.py" />
         <option value="$PROJECT_DIR$/pom/pricing/sign_up_modal.py" />
-        <option value="$PROJECT_DIR$/pom/sign_up/policy_modal.py" />
         <option value="$PROJECT_DIR$/pom/sign_up/plug_in_modal.py" />
         <option value="$PROJECT_DIR$/pom/landing_page.py" />
         <option value="$PROJECT_DIR$/pom/pricing/paying_modal.py" />
         <option value="$PROJECT_DIR$/pom/sign_up/sign_up_modal.py" />
-        <option value="$PROJECT_DIR$/pom/sign_up/chrome_extension_modal.py" />
-        <option value="$PROJECT_DIR$/features/paypal_then_sign_up.feature" />
         <option value="$PROJECT_DIR$/practice_asker.py" />
         <option value="$PROJECT_DIR$/pom/common/header.py" />
-        <option value="$PROJECT_DIR$/pom/pricing/pricing_page.py" />
-        <option value="$PROJECT_DIR$/pom/_base/driver.py" />
-        <option value="$PROJECT_DIR$/pom/pricing/paypal_popup.py" />
-        <option value="$PROJECT_DIR$/features/steps/paypal_then_sign_up.py" />
-        <option value="$PROJECT_DIR$/pom/landing/landing_page.py" />
         <option value="$PROJECT_DIR$/features/environment.py" />
-        <option value="$PROJECT_DIR$/pom/pricing/payment_subscription_modal.py" />
         <option value="$PROJECT_DIR$/features/fixtures.py" />
+        <option value="$PROJECT_DIR$/pom/pricing/payment_subscription_modal.py" />
+        <option value="$PROJECT_DIR$/pom/sign_up/policy_modal.py" />
+        <option value="$PROJECT_DIR$/pom/landing/landing_page.py" />
+        <option value="$PROJECT_DIR$/pom/pricing/pricing_page.py" />
+        <option value="$PROJECT_DIR$/pom/sign_up/chrome_extension_modal.py" />
+        <option value="$PROJECT_DIR$/pom/sign_up/purchase_successful_modal.py" />
+        <option value="$PROJECT_DIR$/pom/pricing/payment_modal.py" />
+        <option value="$PROJECT_DIR$/features/steps/paypal_then_sign_up.py" />
+        <option value="$PROJECT_DIR$/features/paypal_then_sign_up.feature" />
+        <option value="$PROJECT_DIR$/pom/pricing/paypal_popup.py" />
+        <option value="$PROJECT_DIR$/pom/_base/driver.py" />
       </list>
     </option>
   </component>
@@ -271,6 +189,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -286,23 +205,7 @@
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -314,6 +217,12 @@
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="pom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="pom" type="462c0819:PsiDirectoryNode" />
+              <item name="_base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -333,6 +242,12 @@
               <item name="pom" type="462c0819:PsiDirectoryNode" />
               <item name="pricing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="pom" type="462c0819:PsiDirectoryNode" />
+              <item name="sign_up" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,11 +256,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/features/screenshots" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -372,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Behave.paypal_then_sign_up.feature:Subscribe with Paypal then sign up success">
+  <component name="RunManager" selected="Behave.paypal_then_sign_up.feature">
     <configuration name="paypal_then_sign_up.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -462,8 +378,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Behave.paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" />
         <item itemvalue="Behave.paypal_then_sign_up.feature" />
+        <item itemvalue="Behave.paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" />
         <item itemvalue="Python.pricing_page" />
         <item itemvalue="Python.header" />
         <item itemvalue="Behave.tutorial.feature" />
@@ -481,44 +397,45 @@
       <option name="presentableId" value="Default" />
       <updated>1565234254837</updated>
       <workItem from="1565234256030" duration="27461000" />
-      <workItem from="1565346175381" duration="10147000" />
+      <workItem from="1565346175381" duration="20872000" />
+      <workItem from="1566306479449" duration="3481000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 11h 05m 22s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 34m 15s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 11h 36m 00s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 35m 26s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 15h 33m 25s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 37m 36s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 15h 38m 45s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 48m 45s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 15h 39m 20s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 50m 32s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 15h 43m 38s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 07h 57m 53s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 15h 50m 17s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 08h 00m 55s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 18h 40m 42s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 08h 02m 26s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 18h 41m 59s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 08h 04m 21s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
-    <history-entry file="paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success - 2019.08.16 at 18h 44m 15s.xml">
-      <configuration name="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success" configurationId="PyBehaveRunConfigurationType" />
+    <history-entry file="paypal_then_sign_up_feature - 2019.08.21 at 08h 05m 45s.xml">
+      <configuration name="paypal_then_sign_up.feature" configurationId="PyBehaveRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37608000" />
+    <option name="totallyTimeSpent" value="51814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,15 +448,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18370607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32854578" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993964" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32854578" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3680431" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39856374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
@@ -547,7 +463,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2935368" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2935368" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32997987" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -563,11 +479,11 @@
     <SUITE FILE_PATH="coverage/Practice$paypal.coverage" NAME="paypal Coverage Results" MODIFIED="1565250390782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/constants" />
     <SUITE FILE_PATH="coverage/Practice$tutorial_feature_run_a_simple_test.coverage" NAME="tutorial.feature:run a simple test Coverage Results" MODIFIED="1565336449584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Practice$environment.coverage" NAME="environment Coverage Results" MODIFIED="1565347082580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" />
-    <SUITE FILE_PATH="coverage/Practice$paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success.coverage" NAME="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success Coverage Results" MODIFIED="1565955979478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Practice$paypal_then_sign_up_feature_Subscribe_with_Paypal_then_sign_up_success.coverage" NAME="paypal_then_sign_up.feature:Subscribe with Paypal then sign up success Coverage Results" MODIFIED="1566295811265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Practice$pricing_page.coverage" NAME="pricing_page Coverage Results" MODIFIED="1565348748688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pom/pricing" />
     <SUITE FILE_PATH="coverage/Practice$practice_asker.coverage" NAME="practice_asker Coverage Results" MODIFIED="1565335655781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$header.coverage" NAME="header Coverage Results" MODIFIED="1565347711114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pom/common" />
-    <SUITE FILE_PATH="coverage/Practice$paypal_then_sign_up_feature.coverage" NAME="paypal_then_sign_up.feature Coverage Results" MODIFIED="1565348757953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Practice$paypal_then_sign_up_feature.coverage" NAME="paypal_then_sign_up.feature Coverage Results" MODIFIED="1566349476785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Practice$tutorial_feature.coverage" NAME="tutorial.feature Coverage Results" MODIFIED="1565347087825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="editorHistoryManager">
@@ -591,24 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom/sign_up/policy_modal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/step_registry.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/steps/tutorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -619,13 +521,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1328" selection-start-line="1328" selection-end-line="1328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/matchers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/paypal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom/sign_up/sign_up_modal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice_asker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="110" column="24" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/screenshots/1566210790_[FAILED] Subscribe with Paypal then sign up success_I purchase package 1 personal at pricing tab by Paypal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/screenshots/1565945415_[FAILED] Subscribe with Paypal then sign up success_I signup successfully.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/steps/tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/drivers/browser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="108">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="147" column="18" selection-start-line="147" selection-start-column="11" selection-end-line="147" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -638,159 +622,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom/common/header.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom/pricing/pricing_page.py">
+    <entry file="file://$PROJECT_DIR$/pom/sign_up/policy_modal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="147" selection-start-line="147" selection-end-line="147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom/sign_up/sign_up_modal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/paypal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom/_base/base_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom/sign_up/chrome_extension_modal.py">
+    <entry file="file://$PROJECT_DIR$/pom/pricing/pricing_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="128">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom/landing/landing_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/paypal_then_sign_up.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice_asker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/screenshots/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/environment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/screenshots/1565945415_[FAILED] Subscribe with Paypal then sign up success_I signup successfully.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1328" selection-start-line="1328" selection-end-line="1328" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom/pricing/paypal_popup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="144">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/fixtures.py">
+    <entry file="file://$PROJECT_DIR$/pom/sign_up/purchase_successful_modal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="11" column="125" selection-start-line="11" selection-start-column="125" selection-end-line="11" selection-end-column="125" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.7/site-packages/behave/matchers.py">
+    <entry file="file://$PROJECT_DIR$/features/screenshots/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom/pricing/payment_modal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="272">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/steps/paypal_then_sign_up.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="386">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom/pricing/payment_subscription_modal.py">
+    <entry file="file://$PROJECT_DIR$/features/paypal_then_sign_up.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom/pricing/paypal_popup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -799,8 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom/_base/driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="112">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
